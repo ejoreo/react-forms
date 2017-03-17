@@ -1,0 +1,37 @@
+{
+  "name": "form_tutorial",
+  "version": "1.0.0",
+  "description": "A quick look at building forms with React",
+  "main": "app.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejoreo/react-forms.git"
+  },
+  "author": "Eric O'Rear <eric@coolestclimbers.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejoreo/react-forms/issues"
+  },
+  "homepage": "https://github.com/ejoreo/react-forms#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "raw-loader": "^0.5.1",
+    "react-hot-loader": "^1.3.1",
+    "webpack-dev-server": "^2.4.2"
+  },
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "file-loader": "^0.10.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.2.1"
+  }
+}
