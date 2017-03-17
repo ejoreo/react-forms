@@ -2,15 +2,16 @@
   "name": "form_tutorial",
   "version": "1.0.0",
   "description": "A quick look at building forms with React",
-  "main": "index.jsx",
+  "main": "app.jsx",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ejoreo/react-forms.git"
   },
-  "author": "Eric O'Rear",
+  "author": "Eric O'Rear <eric@coolestclimbers.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ejoreo/react-forms/issues"
