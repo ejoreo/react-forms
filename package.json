@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/ejoreo/react-forms/issues"
   },
-  "homepage": "https://github.com/ejoreo/react-forms#readme"
+  "homepage": "https://github.com/ejoreo/react-forms#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0"
+  }
 }
